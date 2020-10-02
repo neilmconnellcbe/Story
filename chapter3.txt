@@ -1,7 +1,58 @@
-Chapter 3:
+Story Synopsis:
 
-Bolbo looked for some shelter from the rain. 
++++++ Scene 1: Githur Galaxy 16 Council Chambers.
 
-Confused by his alien surroundings he didn't know where to look. Everything seemed so strange.
+Galaxy 16 Council Meeting.
+	
+	Planet Githur and its people/physical type etc/human-ish
+	Joined the Galaxy 16 Council three hundred years ago
+	Second largest inhabited planet in galaxy
+	Galaxy 16 Council HQ moved from Idrian system due to planet-wide evacuation (solar collapse to brown dwarf) 
+	Idrian people moved to Githur and relocated Galaxy 16 council there to
+	Intro to other races: Ferdeen & Hagri/physical types/human-ish and not-so-ish
+	
+	UPC Reports to Council on recent surveillance visit to Earth
+	Explain what UPC is
+	Concept of conservators
+	How planets are monitored
+	History of First Contact and conditions
 
-NNNNNNNNNNNNNNNNN
+	Council response to report on Earth
+	Earth 30 years from fusion power/80 years from ftl
+	Planetary environment likely to lead to resource wars and become uninhabitabe long before ftl
+	Need confirmatory visit by UPC
+	Senior conservator to be sent to Earth to determine whether First Contact needs to be accelerated
+
++++++ Scene 2: Githur UPC HQ
+
+	Bolbo Rasitan breifed on mission
+	To be his first visit to Earth
+	Also in the briefing junior conservator Forido Karitin who visited Earth in 2020
+	Briefed on state of atmosphere and overview of adversarial political system
+	Files from previous visits
+	Wars, fission and other technologies
+
+	Bit of background on Bolbo
+	Life as a Planetary Conservator/High Office
+	Own transport: power unit & crew/buzzer for landings
+	Basic AI/Androids in crew
+	ftl limits
+	Cloaking - limited against post fusion tech
+
+	{Language translators
+	Neural enhancements - not 100% reliable
+	Causes glitches in translation unit}
+
++++++ Scene 3: Journey to Earth
+
+
+
+	Bolbo had landed his buzzer (the nickname for the mark 14 dibox industries planetary manoevring system, or landing craft to most people) in a field in a remote part of the east of England. It was raining steadily and the ground was wet, Bolbo's boots made a squelching sound as he walked away from his buzzer to check it was hidden from view - he had landed in a shallow depression in the centre of the field and he hoped that would prevent people passing by from seeing it. After a hundred metres or so he scanned the horizon and satisfied the buzzer was hidden, took out his interface and checked the status of his power unit which he had parked on the far side of the Earth's moon. The power unit reported all systems normal and enough energy for the two day trip back to his home planet of Githur. 
+
+	Bolbo was on a mission from the Council of Galaxy 16. The advanced civilisations of the Council had been visiting Earth for several centuries to assess its progress and to decide when to initiate First Contact. This was always a delicate matter and in most circumstances First Contact would happen once a planet's inhabitants had mastered the use of nuclear fusion to produce cheap and endless supplies of electricity. The pattern from that point to faster than light travel was pretty much the same across the universe. Fusion allowed the creation of ever higher energy nuclear experiments, this led to the discovery of gravitons, this led to the ability to reduce the mass of any objects including vehicles to zero and this allowed the first faster than light machines. From there, a few more advances to prevent occupants from being pulverised leads to the first explorers heading to the nearest stars. From fusion to interstellar travel normally took around one hundred earth years plus or minus a couple of decades so First Contact at around the time of a planet's ability to use nuclear fusion normally gave them the encouragement necessary to keep developing space travel and eventually to join the ranks of other advanced civilisations and to become members of the Council of Galaxy 16.
+
+	The other, less frequent, trigger for First Contact was if the Council believed that a civilisation was in danger of destroying itself through war, catastrophe, or through damaging its environment to the extent that the planet could no longer sustain intelligent life. To make those judgements requires an extensive network of planetary surveillance and the people charged with that job were the Union of Planetary Conservators. The UPC were the only branch allowed under Council rules to visit or otherwise make themselves known to pre-First Contact civilisations. Life as a Planetary Conservator was one of constant travel, there were over two hundred planets to keep under surveillance and as each planet advanced towards first contact, covert observation became more difficult. Once a planet had invented radio and radar, using scanning systems that emitted electromagnetic or other energy types became difficult so passive systems were mandatory. So prior to that point no such limitations existed so masses of data was collected including detailed geographic and geological information and a huge mount of information about the planet's inhabitants right down to the smallest organisms. Once radio was invented, followed by television, it was possible to monitor everything in real time from a few beacons planted on a nearby moon or asteroid belt that relayed all telemetry back to the UPC headquarters on Githur. 
+
+	Once it was possible to monitor radio and video transmissions in real time, planetary visits were less frequent, pretty much once every ten years to check whether the news channels and other broadcasts were painting a reasonably accurate picture of the planet's status and to replace or repair the telemetry relays in the asteriod belt. Visits would also be initiated if a mass war event occurred or if nuclear fission weapons were tested or used. In the case of the planet Earth, the last century had been quite busy, Bolbo's team had been called upon to observe two 'world wars' the use of two nuclear fission weapons and several other 'scares' including the Cuban Missile Crisis. The UPC were also there observing the first manned landing on the Moon.
+
+	So why was Bolbo once more on the Earth, this time actually on the surface rather than a remote observation point? The reason was simple, after the previous visit, just one year ago in Earth year 2020, the UPC reported to the Council that in their opinion the inhabitants of earth were on course to create climactic catastrophe which in their opinion was likely to result in the Earths climate becoming inhospitable to Human life. This pattern of development, mirrored that seen in the Ferdeen, Hagri and other systems where Council intervention was required because the climatic catastrophe wsas beyond the means of the inhabitants to resolve. In the case of the Ferseen, the world was plunged into resource wars over water with the loss of over two billion lives.     
